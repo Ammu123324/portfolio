@@ -6,7 +6,7 @@ const Project=[
     {
         imgsrc:Calculator,
         title:"Calculator",
-        text:"A clean and user-friendly calculator application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and demonstrates a simple yet effective approach to creating an interactive user interface.",
+        text:"A clean and user-friendly calculator application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and demonstrates a simple yet effective approach to creating an interactive user.",
         view:"https://thenmozhi-calculator.netlify.app/"
     },
     {
