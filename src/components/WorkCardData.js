@@ -5,21 +5,21 @@ import Portfolio from "../assets/portfolio.png";
 const Project=[
     {
         imgsrc:Calculator,
-        title:"Calculat",
-        text:"A simple calculator web application built with HTML, CSS, and JavaScript.",
+        title:"Calculator",
+        text:"A clean and user-friendly calculator application developed using HTML, CSS, and JavaScript. It performs essential arithmetic operations and showcases a simple yet effective approach to interactive UI development.",
         view:"https://thenmozhi-calculator.netlify.app/"
     },
     {
         imgsrc:Coffeeshop,
-        title:"Coffeeshop",
-        text:"A responsive coffee shop website showcasing menu, services, and offers.",
+        title:" Ecommerce - Coffeeshop",
+        text:"A fully responsive coffee shop website built with HTML, CSS, JavaScript, and React (Vite). The site showcases the menu, services, and special offers with a clean, modern design and smooth user interactions optimized for all devices.",
          view:"https://thenmozhi-coffeeshop.netlify.app/"
     },
     {
     imgsrc: Portfolio,
-    title: "Portfolio",
-    text: "A personal portfolio website showcasing my projects, skills, and experience.",
-    view: "https://thenmozhi-portfolio.netlify.app/"  // <-- replace with your real link
+    title: "Ecommerce - Portfolio",
+    text:"A personal portfolio website built using HTML, CSS, JavaScript, and React.js. It showcases my projects, skills, and learning journey. The site is responsive, clean, and user-friendly across all devices.",
+    view: "https://thenmozhiportfolio.netlify.app/"  
     }    
 
     

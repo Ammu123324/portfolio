@@ -1,14 +1,16 @@
 import "./Aboutcontactstyle.css";
 import React from "react";
 import { Link } from "react-router-dom";
-import Calculator from "../assets/calculator.png";
-import Coffee from "../assets/coffee.png";
+import Calculator from "../assets/5.jpg";
+import Coffee from "../assets/4.jpg";
 const Aboutcontact = () => {
     return (
         <div className="about">
             <div className="left">
                 <h1>Who am I?</h1>
-                <p>React Developer</p>
+                <p>I’m a React front-end developer creating clean, modern, and responsive websites. I
+
+ build fast, responsive, and user-friendly websites using React.</p>
 
                 <Link to="/contact">
                     <button className="btn">Contact</button>

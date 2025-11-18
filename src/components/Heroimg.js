@@ -13,12 +13,12 @@ const Hero = () => {
         </div>
       <div className="content">
       <p>HI,I'M A THENMOZHI</p>
-      <h1>FULLSTACK DEVELOPER</h1>
+      <h1>FRONT-END DEVELOPER</h1>
       <div>
       <Link to="/project" className="btn">Projects</Link>
       <Link to="/contact" className=" btn btn-light">Contact</Link>
 
-
+      
       </div>
 
 
