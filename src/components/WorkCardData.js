@@ -19,7 +19,7 @@ const Project=[
     imgsrc: Portfolio,
     title: "Ecommerce - Portfolio",
     text:"A personal portfolio website built using HTML, CSS, JavaScript, and React.js. It showcases my projects, skills, and learning journey. The site is responsive, clean, and user-friendly across all devices.",
-    view: "https://thenmozhiportfolio.netlify.app/"  
+    view: "https://github.com/Ammu123324/portfolio.git"  
     }    
 
     
