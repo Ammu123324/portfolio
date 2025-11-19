@@ -12,7 +12,7 @@ const Project=[
     {
         imgsrc:Coffeeshop,
         title:"  Coffeeshop",
-        text:"A fully responsive coffee shop ecommerce website developed with HTML, CSS, JavaScript, and React (Vite). It highlights the menu, services, and exclusive offers with a modern, clean design and smooth interactions optimized for devices.",
+        text:"A fully responsive coffee shop e-commerce website built with HTML, CSS, JavaScript, and React (Vite), featuring a clean modern design, smooth interactions, and sections for menu, services, and exclusive offers..",
          view:"https://thenmozhi-coffeeshop.netlify.app/"
     },
     {
